@@ -1,0 +1,93 @@
+Privacy Policy
+
+This app (“GPS Flow”) is designed to assist traffic engineers in collecting travel-time data for traffic analysis and engineering purposes. We respect user privacy and clearly outline below what information is collected and how it is handled.
+
+1. Information We Collect
+
+When the App is in use, it records:
+
+Latitude
+
+Longitude
+
+Speed
+
+Timestamp
+
+These data points are used solely for generating travel-time logs for engineering analysis.
+
+The App does not collect:
+
+Personal identity information
+
+Account details
+
+Device identifiers
+
+Contact information
+
+2. Purpose of Data Collection
+
+The collected data is used exclusively for:
+
+Analyzing trip routes
+
+Measuring travel times
+
+Supporting traffic engineering studies and transportation research
+
+The App does not use the data for tracking individuals or creating user profiles.
+
+3. Data Storage
+
+All recorded data is stored locally on the user’s device in CSV format.
+
+No data is uploaded, transmitted, or synced to remote servers or cloud services by the App.
+
+Users may delete the locally stored CSV files at any time.
+
+4. Data Sharing
+
+The App does not automatically share any data.
+
+Users may choose to manually share CSV files with traffic engineering teams using the device’s built-in sharing features (e.g., email, AirDrop, messaging apps).
+
+The developer and traffic engineers do not receive any data unless a user intentionally sends it.
+
+5. Permissions
+
+To function properly, the App requires:
+
+Location Access: Needed to collect location, speed, and timestamp data. This is only used while the App is actively running.
+
+The App does not request or access other personal permissions such as contacts, photos, or media.
+
+6. Children’s Privacy
+
+This App is intended for use by traffic engineers and is not designed for children.
+The App collects no personal data and does not knowingly collect information from children under 13.
+
+7. Third-Party Services
+
+The App does not use:
+
+Analytics services
+
+Advertising networks
+
+Third-party SDKs that collect user data
+
+8. Data Security
+
+All data remains on the user’s device and is protected by the device’s built-in security features.
+Because no data is transmitted externally, exposure risk is minimized.
+
+9. Policy Updates
+
+We may update this Privacy Policy as needed for operational or regulatory reasons. Any updates will appear within the App or on its listing, with a revised effective date.
+
+10. Contact
+
+For questions about this Privacy Policy or the App’s data practices, contact:
+Sirisha Dhulipala
+sirisha.66@gmail.com
