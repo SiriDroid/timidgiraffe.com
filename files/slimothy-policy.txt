@@ -1,0 +1,67 @@
+Privacy Policy for Slimothy
+
+Last Updated: January 25, 2026
+
+Slimothy is a weight tracking application developed by Timid Giraffe. This policy explains how the app handles your data.
+
+1. Data Collection
+
+Slimothy collects the following information that you voluntarily enter:
+- Weight entries (numerical values)
+- Timestamps (date and time of entries)
+- Optional notes associated with weight and health entries
+- Your preferred unit of measurement (kg or lbs)
+
+The app does not collect personal identity information, device identifiers, or any data beyond what you explicitly enter.
+
+2. Data Storage
+
+All weight data is stored locally on your device. If you choose to enable Google Drive sync:
+- Your weight entries are backed up to your personal Google Drive account
+- Data is stored in a CSV file within your own Drive storage
+- You maintain full control over this data through your Google account
+
+3. Google Sign-In
+
+The app offers optional Google Sign-In for backup purposes only. When you sign in:
+- We request access only to app-specific data in your Google Drive
+- We do not access your emails, contacts, or other Google services
+- You can revoke access at any time through your Google account settings
+
+4. Data Sharing
+
+Slimothy does not share, sell, or transmit your data to any third parties. Your weight tracking information remains private to you.
+
+5. Third-Party Services
+
+The app does not integrate advertising networks, analytics services, or data-collecting SDKs beyond the Google Drive API for optional backup functionality.
+
+6. Data Security
+
+- Local data is stored using your device's standard security mechanisms
+- Google Drive sync uses Google's secure authentication (OAuth 2.0)
+- No data is transmitted to Timid Giraffe servers
+
+7. Data Deletion
+
+You can delete your data at any time:
+- Use the "Delete All" feature within the app to remove all local entries
+- Uninstalling the app removes all locally stored data
+- Google Drive backups can be deleted directly from your Google Drive
+
+8. Children's Privacy
+
+Slimothy is not directed at children under 13. We do not knowingly collect data from children under 13 years of age.
+
+9. Changes to This Policy
+
+We may update this privacy policy from time to time. Any changes will be reflected in the "Last Updated" date above.
+
+10. Contact
+
+If you have questions about this privacy policy, please contact:
+
+Sirisha Dhulipala
+Email: sirisha.66@gmail.com
+
+By using Slimothy, you agree to this privacy policy.
